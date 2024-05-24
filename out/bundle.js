@@ -8758,14 +8758,7 @@
       },
       {},
     ],
-    70: [
-      function (require, module, exports) {
-        const ajvValidator = require("../dist/index.js")
-        module.exports = ajvValidator
-      },
-      {"../dist/index.js": 2},
-    ],
   },
   {},
-  [70]
+  [2]
 )
