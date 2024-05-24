@@ -1,4 +1,4 @@
-formatsPlugin = function () {
+const formatsPlugin = function () {
   console.log("BOOOO")
 }
 export default formatsPlugin
