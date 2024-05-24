@@ -14,7 +14,7 @@
     } else {
       g = this
     }
-    g.ajvFormat = f()
+    g.formatsPlugin = f()
   }
 })(function () {
   var define, module, exports
